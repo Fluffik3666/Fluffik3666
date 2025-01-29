@@ -1,10 +1,11 @@
+# Hej! I'm @Fluffik3666
+
 - 👋 Hi, I’m @Fluffik3666
-- 👀 I’m interested in coding, movies!
-- 🌱 I’m currently learning python, discord bot dev
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me email me:)
-- I'm the main developer in Nexus.AI!
-- 
+- 👀 I’m interested in programming and theatre tech!
+- 🌱 I know: Python, HTML, CSS, JS, Swift, Swift UI
+- 💞️ Nothing to collaborate over yet!
+- 📫 Send me a message at sasha@urbanmechanics.co.uk
+- Check out AnimeAtlas (my app) on the iOS app store [here](https://apps.apple.com/gb/app/animeatlas/id6739979715)
 
 <!---
 Fluffik3666/Fluffik3666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
