@@ -5,6 +5,7 @@
 - 🌱 I know: Python, HTML, CSS, JS, Swift, Swift UI
 - 💞️ Nothing to collaborate over yet!
 - 📫 Send me a message at sasha@urbanmechanics.co.uk
+- Check out my [portfolio](https://alexanderbagrov.com)
 - Check out AnimeAtlas (my app) on the iOS app store [here](https://apps.apple.com/gb/app/animeatlas/id6739979715)
 
 <!---
