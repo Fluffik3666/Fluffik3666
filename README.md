@@ -49,6 +49,8 @@ Proxmox, UniFi, self-hosted everything. If it can be run at home, it probably is
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Fluffik3666&theme=dark&hide_border=true)
+
 [Portfolio](https://alexanderbagrov.com) &nbsp;|&nbsp; [Urban Mechanics Ltd](https://github.com/Urban-Mechanics-LTD)
 
 </div>
